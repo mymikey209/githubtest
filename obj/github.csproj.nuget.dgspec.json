@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/github/github.csproj": {}
+    "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/githubtest/github.csproj": {}
   },
   "projects": {
-    "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/github/github.csproj": {
+    "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/githubtest/github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/github/github.csproj",
+        "projectUniqueName": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/githubtest/github.csproj",
         "projectName": "github",
-        "projectPath": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/github/github.csproj",
+        "projectPath": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/githubtest/github.csproj",
         "packagesPath": "/Users/michael-anthonypantoja/.nuget/packages/",
-        "outputPath": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/github/obj/",
+        "outputPath": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 1/githubtest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michael-anthonypantoja/.nuget/NuGet/NuGet.Config"
